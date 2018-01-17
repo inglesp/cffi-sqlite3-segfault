@@ -1,4 +1,4 @@
-This repo contains code to reproduce a segfault in CFFI, described in [issue XYZ]().
+This repo contains code to reproduce a segfault in CFFI, described in [issue 356](https://bitbucket.org/cffi/cffi/issues/356/).
 
 To reproduce, run the following in a virtualenv.
 
